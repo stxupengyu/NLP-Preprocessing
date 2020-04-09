@@ -1,2 +1,4 @@
 # NLP-Preprocessing
-To deal with the XML data, and implement the preprocessing function.
+实现英文自然语言处理的预处理功能。  
+源数据是从网页爬取的文本数据，所以很杂乱。  
+本代码实现了一直整套的数据预处理过程，最终将其清洗为比较整齐单词集合，放置在列表中。  
